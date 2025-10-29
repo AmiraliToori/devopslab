@@ -2,4 +2,4 @@
 
 ---
 
-- [log-archive-tool](./log-archive/README.md)
+- [log-archive-tool](./log-archive-tool/README.md)
